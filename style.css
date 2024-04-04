@@ -1,0 +1,57 @@
+.recipes, h1, h2, ol, ul, p {
+    text-align: center;
+}
+
+.recipes {
+    list-style: none;
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+h1, h2 {
+    color:aqua;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+html {
+    background-color:moccasin;
+}
+
+a {
+    color:gray;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ol, ul {
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+    line-height: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul {
+    list-style-type: square;
+    font-weight: bold;
+}
+
+ol {
+    display: inline-block;
+    text-align: left;
+}
+
+.order-list{
+    text-align: center;
+}
+
+img{
+    width:auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
